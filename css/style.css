@@ -1,0 +1,61 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.wrapper
+{	margin: 0px auto;
+	width: 1000px;
+	height: auto;
+	border: 1px solid black;
+}
+.section1
+{
+	float:left;
+	background: #eee;	
+	height: 100px;
+	width: 100%;
+}
+.section1 ul
+{
+  margin: 0px 0 0 50px ;
+  list-style-type: none;
+
+}
+.section1 ul li a
+{
+	font-size: 30px;
+  float: left;
+  text-decoration: none;
+  padding: 40px 0 0 100px;
+  color: red;
+}
+.section1 ul li a:hover
+{
+
+	color: black;
+	text-decoration: underline;
+}
+.section2
+{
+	float: left;
+	width: 100%;
+	background: #ccc;
+	height: 300px;
+}
+.box
+{
+	float: left;
+	margin:50px 0 0 50px;
+	width: 200px;
+	height: 150px;
+	border: 1px solid black;
+}
+
+.text-style
+{
+	font-family: Arial;
+	text-align: center;
+	color: white;
+	font-size: 50px;
+}
